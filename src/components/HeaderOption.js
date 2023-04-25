@@ -1,5 +1,4 @@
 import React from 'react'
-import Avatar from '@mui/material/Avatar';
 const HeaderOption = ({Icon, title, src}) => {
   return (
     <div className="flex flex-col items-center text-gray-500 cursor-pointer hover:text-black duration-200 transition-all">

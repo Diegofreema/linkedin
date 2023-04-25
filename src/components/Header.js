@@ -8,7 +8,7 @@ import { Avatar } from '@mui/material';
 // import Me from '../assets/me.jpg'
 const Header = () => {
   return (
-    <header className="flex items-center justify-evenly sticky top-0 z-40 left-0 right-0 border py-2 w-full">
+    <header className="flex items-center justify-evenly sticky top-0 z-40 left-0 right-0 border border-gray-300 py-2 w-full">
       <div className="left flex space-x-1 items-center">
         <AiFillLinkedin color="blue" size={40} />
         <div className="search p-1 rounded-sm flex items-center text-[gray] bg-[#eef3f8] space-x-1 flex-1">
